@@ -10,7 +10,7 @@ I'm a Junior Front-end Developer always looking for an opportunity to grow and i
 - ⚡️ I challenge myself by improving coding-skills on [Frontend Mentor](https://www.frontendmentor.io/) and [Codewars](https://www.codewars.com/).
 
 
-## 👉🏽 What I've been working on
+## What I've been working on
 
 * 🧠 Internship at Kalio Tech : Repos Production & [7 Wonders Mystery] (https://www.7wondersmystery.com/) (both online by the end of April 2021) - on [Gitlab] (https://gitlab.com/khadija4) 🤫
 
@@ -23,7 +23,7 @@ I'm a Junior Front-end Developer always looking for an opportunity to grow and i
 
 ## Languages & Tools
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
      alt="Boostrap icon"
       float="left" width="34px" style="margin-right: 8px;" /> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
