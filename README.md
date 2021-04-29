@@ -12,7 +12,7 @@ I'm a creative & ambitious Front-end Developer always looking for an opportunity
 
 ## What I've been working on
 
-* I just built a website (Internship at Kalio Tech): [7 Wonders Mystery](https://www.7wondersmystery.com/)
+* Client project (Internship at Kalio Tech): [7 Wonders Mystery](https://www.7wondersmystery.com/)
 
 * School projects :
 	* Touristic site with user registration & API 👉🏽 [ watch screenshots ](https://github.com/KhadijaEK/npProject)
