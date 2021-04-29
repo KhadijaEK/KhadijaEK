@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-I'm a Junior Front-end Developer always looking for an opportunity to grow and improve my coding-skills!  
+I'm a creative & ambitious Front-end Developer always looking for an opportunity to grow and improve my coding-skills!  
 
-- 🔭  I’m currently working on ... To Do app
-- 🌱  I’m currently learning ... Vue.js
-- 💬  Ask me about ... Anything
-- 📫  How to reach me: ... Check my [Virtual card  ](https://khadijaek.github.io/vcard/)
-- ⚡️ I challenge myself by improving coding-skills on [Frontend Mentor](https://www.frontendmentor.io/) and [Codewars](https://www.codewars.com/).
+- 🔭  I’m currently working on a To-Do app
+- 🌱  I’m currently learning Vue.js
+- 💬  Ask me about anything
+
+- 📫  Check my [Virtual card  ](https://khadijaek.github.io/vcard/) for more info & resume. 
+
 
 
 ## What I've been working on
 
-* Internship at Kalio Tech : Repos Production & [7 Wonders Mystery](https://www.7wondersmystery.com/)
-* School solo project (PHP POO, HTML5, CSS3 & JS), not deployed yet, 👉🏽 [ watch screenshots ](https://github.com/KhadijaEK/npProject)
+* Built a website : [7 Wonders Mystery](https://www.7wondersmystery.com/) -  Internship at Kalio Tech
+* School solo project :
+* (PHP POO, HTML5, CSS3 & JS), not deployed yet, 👉🏽 [ watch screenshots ](https://github.com/KhadijaEK/npProject)
 * I ❤️ Graphic Design, checkout my [Page 404](https://khadijaek.github.io/404-page/) with one of my illustration
 * HTML/CSS replication [exercise](https://khadijaek.github.io/tim-berners-lee/) 
 * 🐱 [Catflix](http://catflix.42web.io/): group project 'Netflix" (Bootstrap + PHP)   
