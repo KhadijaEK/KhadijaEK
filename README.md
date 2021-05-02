@@ -3,7 +3,7 @@
 I'm a creative & ambitious Front-end Developer always looking for an opportunity to grow and improve my coding-skills!  
 
 - 🔭  I’m currently working on a To-Do app
-- 🌱  I’m currently learning Vue.js
+- 🌱  I’m currently learning Angular & Vue.js
 - 💬  Ask me about anything
 
 - 📫  Check my [Virtual card  ](https://khadijaek.github.io/vcard/) for more info & resume. 
