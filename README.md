@@ -2,7 +2,7 @@
 
 I'm a creative & ambitious Front-end Developer always looking for an opportunity to grow and improve my coding-skills!  
 
-- 🔭  I’m currently working on a memory cardGame in JS
+- 🔭  I’m currently working on a Memory Card Game in JS (just for fun)
 - 🌱  I’m currently learning React JS
 - 💬  Ask me about anything
 
