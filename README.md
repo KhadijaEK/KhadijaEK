@@ -19,7 +19,7 @@ I'm a creative & ambitious Front-end Developer always looking for an opportunity
 	* [Tim Berner's Lee](https://khadijaek.github.io/tim-berners-lee/) -  HTML/CSS
 	
 * I ❤️ Graphic Design, checkout : 
-	*  Some of my illustrations on [Redbubble](I made for a [Page 404](https://khadijaek.github.io/404-page/)
+	*  Some of my illustrations on [Redbubble](https://khadijaek.github.io/404-page/)
 	*  Or this one [Page 404](https://khadijaek.github.io/404-page/) 
 	*  One logo I made for [La Baie Coffee Roasters] (https://www.labaiecoffee.com/?locale=fr)  
 
