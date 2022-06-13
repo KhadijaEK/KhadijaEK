@@ -15,7 +15,7 @@ I'm a creative & ambitious Front-end Developer always looking for an opportunity
 * Client project (Internship at Kalio Tech): [7 Wonders Mystery](https://www.7wondersmystery.com/)
 
 * Projects :
-	* Coffee shop with bootstrap 👉🏽 [ Flesh-oh! ]([https://github.com/KhadijaEK/npProject](https://github.com/KhadijaEK/boostrap-coffeeShop))
+	* Coffee shop with bootstrap 👉🏽 [ Flesh-oh! ](https://github.com/KhadijaEK/boostrap-coffeeShop)
 	* Touristic site with user registration & API 👉🏽 [ watch screenshots ](https://github.com/KhadijaEK/npProject)
 	* Live streaming platform similar to Netflix - We called it 🐱 [Catflix](http://catflix.42web.io/) - Bootstrap + PHP
 	* [Tim Berner's Lee](https://khadijaek.github.io/tim-berners-lee/) -  HTML/CSS
