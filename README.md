@@ -14,13 +14,15 @@ I'm a creative & ambitious Front-end Developer always looking for an opportunity
 
 * Client project (Internship at Kalio Tech): [7 Wonders Mystery](https://www.7wondersmystery.com/)
 
-* School projects :
+* Projects :
+	* Coffee shop with bootstrap 👉🏽 [ Flesh-oh! ]([https://github.com/KhadijaEK/npProject](https://github.com/KhadijaEK/boostrap-coffeeShop))
 	* Touristic site with user registration & API 👉🏽 [ watch screenshots ](https://github.com/KhadijaEK/npProject)
 	* Live streaming platform similar to Netflix - We called it 🐱 [Catflix](http://catflix.42web.io/) - Bootstrap + PHP
 	* [Tim Berner's Lee](https://khadijaek.github.io/tim-berners-lee/) -  HTML/CSS
 * I ❤️ Graphic Design, checkout : 
-	*  one illustration I made for a [Page 404](https://khadijaek.github.io/404-page/) 
-	*  one logo I made for [La Baie Coffee Roasters] (https://www.labaiecoffee.com/?locale=fr)  
+	*  Some of my illustrations on [Redbubble](I made for a [Page 404](https://khadijaek.github.io/404-page/)
+	*  Or this one [Page 404](https://khadijaek.github.io/404-page/) 
+	*  One logo I made for [La Baie Coffee Roasters] (https://www.labaiecoffee.com/?locale=fr)  
 
 
 ## Languages & Tools
